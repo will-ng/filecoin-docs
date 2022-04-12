@@ -119,7 +119,7 @@ We're going to use FilRep to check that the minimum deal size of the storage pro
     ![](filrep-search-min-file-size.png)
 
 1. Check that the minimum file size is lower than 5 GiB, and that they charge 0 FIL for verified deals.
-1. If the minimum file size shown for any of your storage providers is larger than 5 GiB, or they charge more thann 0 FIL for verified deals, go back to [the previous section](#filecoin-plus-provider-registry) and select a new storage provider.
+1. If the minimum file size shown for any of your storage providers is larger than 5 GiB, or they charge more than 0 FIL for verified deals, go back to [the previous section](#filecoin-plus-provider-registry) and select a new storage provider.
 
 Now that you've found your storage providers, you can move onto creating a storage deal!
 
